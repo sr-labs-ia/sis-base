@@ -1,0 +1,3 @@
+# Algoritmos
+Crear clases de estadistica para tomar decisiones
+    comparar(conjuntoDatos1[], conjuntoDatos2[])
